@@ -5,14 +5,14 @@ export const perguntas = [
             {
                 texto: "A) Drama",
                 afirmacao: [
-                    "Aquele Gosta de histórias emocionantes e profundas."
+                    "É aquele Gosta de histórias emocionantes e profundas."
                 ],
                 proxima: 1,
             },
             {
                 texto: "B) Terror",
                 afirmacao: [
-                    "Aquele Gosta sentir aquele frio na espinha."
+                    "É aquele Gosta sentir aquele frio na espinha."
                 ],
                 proxima: 2,
             },
