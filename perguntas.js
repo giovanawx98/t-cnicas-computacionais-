@@ -89,7 +89,7 @@ export const perguntas = [
             {
                 texto: "Não.",
                 afirmacao: [
-                    "Prefere ver coisas novas?"
+                    "Prefere ver coisas novas."
                 ],
                 proxima: 8,
             },
