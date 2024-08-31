@@ -5,14 +5,14 @@ export const perguntas = [
             {
                 texto: "A) Drama",
                 afirmacao: [
-                    "Você gosta de histórias emocionantes e profundas."
+                    "Gosta de histórias emocionantes e profundas."
                 ],
                 proxima: 1,
             },
             {
                 texto: "B) Terror",
                 afirmacao: [
-                    "Você gosta sentir aquele frio na espinha."
+                    "Gosta sentir aquele frio na espinha."
                 ],
                 proxima: 2,
             },
@@ -24,7 +24,7 @@ export const perguntas = [
             {
                 texto: "Sim.",
                 afirmacao: [
-                    "Gosto de explorar diferentes culturas.",
+                    "Gosta de explorar diferentes culturas.",
     
                 ],
                 proxima: 3,
@@ -32,7 +32,7 @@ export const perguntas = [
             {
                 texto: "Não.",
                 afirmacao: [
-                    "Prefiro filmes de Hollywood."
+                    "Prefere filmes de Hollywood."
                 ],
                 proxima: 4,
             },
@@ -44,14 +44,14 @@ export const perguntas = [
             {
                 texto: "Um filme recente.",
                 afirmacao: [
-                    "Você gosta de estar por dentro!!"
+                    "Gosta de estar por dentro!!"
                 ],
                 proxima: 3,
             },
             {
                 texto: "Um clássico.",
                 afirmacao: [
-                    "Você gosta de um filme antigo inesquecível!"
+                    "Gosta de um filme antigo inesquecível!"
                 ],
                 proxima: 4,
             },
