@@ -12,7 +12,7 @@ export const perguntas = [
             {
                 texto: "B) Terror",
                 afirmacao: [
-                    "Pra sentir aquele frio na espinha."
+                    "Você gosta sentir aquele frio na espinha."
                 ],
                 proxima: 2,
             },
@@ -44,14 +44,14 @@ export const perguntas = [
             {
                 texto: "Um filme recente.",
                 afirmacao: [
-                    "Direto dos cinemas!!"
+                    "Você gosta de estar por dentro!!"
                 ],
                 proxima: 3,
             },
             {
                 texto: "Um clássico.",
                 afirmacao: [
-                    "Um filme antigo, mas inesquecível!"
+                    "Você gosta de um filme antigo inesquecível!"
                 ],
                 proxima: 4,
             },
@@ -63,14 +63,14 @@ export const perguntas = [
             {
                 texto: "Cinema.",
                 afirmacao: [
-                    "Gosto da tela grande e o som potente."
+                    "Gosta da tela grande e o som potente."
                 ],
                 proxima: 5,
             },
             {
                 texto: "Em casa.",
                 afirmacao: [
-                    "Gosto do conforto do sofá e pipoca caseira."
+                    "Gosta do conforto do sofá e pipoca caseira."
                 ],
                 proxima: 6,
             },
@@ -82,14 +82,14 @@ export const perguntas = [
             {
                 texto: "Sim.",
                 afirmacao: [
-                    "Não canso de rever meus filmes favoritos!"
+                    "Não cansa de rever meus filmes favoritos!"
                 ],
                 proxima: 7,
             },
             {
                 texto: "Não.",
                 afirmacao: [
-                    "Prefiro ver coisas novas?"
+                    "Prefere ver coisas novas?"
                 ],
                 proxima: 8,
             },
@@ -101,13 +101,13 @@ export const perguntas = [
             {
                 texto: "Sim.",
                 afirmacao: [
-                    "Gosto da aventura."
+                    "Gosta da aventura."
                 ],
             },
             {
                 texto: "Não.",
                 afirmacao: [
-                    "São muito genéricos, não há surpresas."
+                    "Acha que são muito genéricos, não há surpresas."
                 ],
             },
         ]
